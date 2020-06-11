@@ -1,0 +1,7 @@
+C:\Users\lemon\source\repos\CsharpAmsiBypass\CsharpAmsiBypass\bin\Debug\CsharpAmsiBypass.exe.config
+C:\Users\lemon\source\repos\CsharpAmsiBypass\CsharpAmsiBypass\bin\Debug\CsharpAmsiBypass.exe
+C:\Users\lemon\source\repos\CsharpAmsiBypass\CsharpAmsiBypass\bin\Debug\CsharpAmsiBypass.pdb
+C:\Users\lemon\source\repos\CsharpAmsiBypass\CsharpAmsiBypass\obj\Debug\CsharpAmsiBypass.csprojAssemblyReference.cache
+C:\Users\lemon\source\repos\CsharpAmsiBypass\CsharpAmsiBypass\obj\Debug\CsharpAmsiBypass.csproj.CoreCompileInputs.cache
+C:\Users\lemon\source\repos\CsharpAmsiBypass\CsharpAmsiBypass\obj\Debug\CsharpAmsiBypass.exe
+C:\Users\lemon\source\repos\CsharpAmsiBypass\CsharpAmsiBypass\obj\Debug\CsharpAmsiBypass.pdb
